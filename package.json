@@ -1,0 +1,15 @@
+{
+  "author" : "hotdog929 <hotdog929@gmail.com>",
+  "name" : "coffee-replace",
+  "description" : "replace string like coffeescript's string interpolation"
+  "version" : "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/eHanlin/coffee-replace.git"
+  },
+  "main" : "lib/coffee-replace.js",
+  "devDependencies" : {
+    "coffee-script" : ">= 1.8.0"
+  },
+  "keywords" : ["replace", "string", "coffee"]
+}
