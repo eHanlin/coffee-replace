@@ -30,4 +30,4 @@ replace = (str, data) ->
 
 String.prototype.coffeeReplace = (data) -> replace(@, data)
 
-module.exports = (str, data) -> replace(str, data)
+if module then module.exports = (str, data) -> replace(str, data)

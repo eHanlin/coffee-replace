@@ -2,7 +2,7 @@
   "author" : "hotdog929 <hotdog929@gmail.com>",
   "name" : "coffee-replace",
   "description" : "replace string like coffeescript's string interpolation",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "repository" : {
     "type" : "git",
     "url" : "https://github.com/eHanlin/coffee-replace.git"
